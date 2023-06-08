@@ -1,0 +1,83 @@
+#dad
+{
+    text-align: left;
+    font-size: large;
+    font-weight: bold;
+}
+
+ul:hover {background-color: rgb(41, 36, 36);}
+ul
+{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(78, 67, 67);
+    overflow: auto;
+}
+
+li
+{
+    display: block;
+    margin: 10px;
+    text-align: center;
+    padding:  10px;
+}
+
+table
+{
+    width: auto;
+    background-color: white;
+    border-collapse: collapse;
+}
+
+td,th
+{
+    border-color: black;
+    border-collapse: collapse;
+    border-style: solid;
+}
+
+tr:hover{ background-color: blue;}
+
+
+
+
+
+
+
+#AnChild
+{
+       float: right; 
+       background-color: white;
+}
+body
+       {
+        background-image: url("image/sekai_street.jpg")
+
+       }   
+img
+           {
+               display: block;    
+               margin-left: auto;
+               margin-right: auto;
+               
+           }
+            
+           
+h2
+         {
+            background-color:chartreuse;
+            color: coral;     
+            font-family: courier;
+            font-size: 200%;
+            text-align: center;
+            border: 5px solid powderblue;
+            padding: 2px;
+            margin: 100px 10px 10px 0;
+         }    
+h1
+        {
+            color: rgb(52, 127, 212);
+            text-shadow: 0.8px 0.8px aqua;
+        }   
+
+a:hover{color: green;}
